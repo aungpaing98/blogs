@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://aungpaing98.github.io/blogs/markdown/2020/01/14/test-markdown-post.html</loc>
-<lastmod>2020-01-14T00:00:00-06:00</lastmod>
+<loc>https://aungpaing98.github.io/blogs/cs231n-lecture1/</loc>
+<lastmod>2020-01-12T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>https://aungpaing98.github.io/blogs/cs231n-lecture2/</loc>
+<lastmod>2020-01-13T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>https://aungpaing98.github.io/blogs/cs231n-lecture3/</loc>
+<lastmod>2020-01-13T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>https://aungpaing98.github.io/blogs/cs231n-lecture4/</loc>
+<lastmod>2020-01-13T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>https://aungpaing98.github.io/blogs/cs231n-lecture5/</loc>
+<lastmod>2020-01-13T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>https://aungpaing98.github.io/blogs/cs231n-lecture6/</loc>
+<lastmod>2020-01-13T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>https://aungpaing98.github.io/blogs/cs231n-lecture7/</loc>
+<lastmod>2020-01-13T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>https://aungpaing98.github.io/blogs/image_processing/overview/2020/11/22/image_processing_overview.html</loc>
@@ -35,5 +59,8 @@
 </url>
 <url>
 <loc>https://aungpaing98.github.io/blogs/categories/</loc>
+</url>
+<url>
+<loc>https://aungpaing98.github.io/blogs/page2/</loc>
 </url>
 </urlset>
