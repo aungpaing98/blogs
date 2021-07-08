@@ -3,13 +3,40 @@ layout: home
 search_exclude: true
 image: images/logo.png
 ---
+<div class="container">
+    <div class="logo-wrapper">
+        <img src="images/profile_logo.png" alt="Aung Paing's Logo" height="180px">
+    </div>
+    <div class="text-description-wrapper">
+        <ul>
+            <li>Yangon Technological University</li>
+            <li>English, Burmese, Chinese, Basic Japanese</li>
+        </ul>
+    </div>
+</div>
 
-This site is built with [fastpages](https://github.com/fastai/fastpages), An easy to use blogging platform with extra features for Jupyter Notebooks.
 
-![]({{site.baseurl}}/images/diagram.png "https://github.com/fastai/fastpages")
+<style media="screen">
+    .container{
+        display:grid;
+        grid-template-columns: 1fr 1fr;
+        align-items: center;
+    }
 
-[fastpages](https://github.com/fastai/fastpages) automates the process of creating blog posts via GitHub Actions, so you don't have to fuss with conversion scripts.  A full list of features can be found on [GitHub](https://github.com/fastai/fastpages).  
+    .logo-wrapper{
+        text-align: center
+    }
 
-You can edit the `index.html` file to change this content.
+    .text-description-wrapper ul{
+        font-size: 18px;
+        font-weight: 420;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
 
-# Posts
+</style>
+
+
+# Blog Posts
