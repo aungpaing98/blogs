@@ -12,29 +12,35 @@ image: images/logo.png
             <li>Yangon Technological University</li>
             <li>English, Burmese, Chinese, Basic Japanese</li>
         </ul>
+        <h2>Personal Website</h2>
+        <a href="https://aungpaing98.github.io">Main Website</a>
     </div>
 </div>
 
 
 <style media="screen">
     .container{
-        display:grid;
-        grid-template-columns: 1fr 1fr;
+        display: flex;
         align-items: center;
+        justify-content: space-evenly;
     }
-
+/* 
     .logo-wrapper{
-        text-align: center
-    }
+        padding: 20px 0px;
+        margin: 0;
+    } */
 
     .text-description-wrapper ul{
         list-style: none;
-        font-size: 18px;
-        font-weight: 420;
+        font-size: 20px;
+        font-weight: bolder;
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
+    }
+    .text-description-wrapper a{
+        text-decoration: none;
     }
 
 </style>
